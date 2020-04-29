@@ -2,6 +2,8 @@ package dz7;
 
 public class Main {
 
+//   Не разобрался как сделать котов голодными
+
     public static void main(String[] args) {
         Cat[] cats = {
                 new Cat("Vaska", 60),
