@@ -1,5 +1,5 @@
 package dz7;
-
+//   Не разобрался как сделать котов голодными
     class Cat {
 
         private String name;
